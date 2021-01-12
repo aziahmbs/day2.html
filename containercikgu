@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Day 2 Exercise</title>
+
+	<link rel="stylesheet" type ="text/css" href="style.css">
+
+</head>
+<body>
+	<div class="container">
+
+		<h1>Let's start <span>getting more<span> fancy</h1>
+
+		<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tower_Bridge_from_London_City_Hall.jpg" alt="">
+
+		<section class="columns">
+			<div class="col col-1">
+			<h2>Dolor Sit</h2>
+
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur.</p>
+			</div>
+
+			<div class="col col-2 col-bg1">
+			<h2>consectetur adipisicing elit</h2>
+			<p>Lorem ipsum dolorsit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat.</p>
+
+			</div>
+
+			<div class="col col-3">
+			<h2>Excepteur sint occaecat cupidatat non</h2>
+				
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat.</p>
+
+			</div>
+			<div class="col col-4 col-bg">
+
+			<h2>ExcDuis aute irur</h2>
+				
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+
+
+			</div>
+		</section>
+		<section class="columns">
+			<div class="col">
+
+			</div>
+
+			<div class="col">
+
+			</div>
+		</section>
+	</div>
+
+</body>
+</html>
